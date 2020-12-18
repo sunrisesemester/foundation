@@ -1,10 +1,10 @@
 ---
-title: "John doe"
+title: "Michael Lynn"
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
-email: "email2@example.org"
+description : "Dedicated Software Developer, Conference Speaker and Podcast Host. Michael volunteers and teaches Web, and Computer classes."
+email: "mike@mlynn.org"
 # portrait
 image: ""
 social:
